@@ -1,4 +1,4 @@
 libraries-and-frameworks
 ========================
 
-Some libraries and frameworks, in several languages, you should thought about when developing.
+Some libraries and frameworks in different programming languages, which you should consider when you develop
