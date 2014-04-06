@@ -6,6 +6,11 @@ Web application:
 
 ### express.js
 
+- [git](git://github.com/visionmedia/express),
+- [documentation](http://expressjs.com/3x/api.html),
+- [npm](https://www.npmjs.org/package/express)
+
+
 Logging:
 --------
 
