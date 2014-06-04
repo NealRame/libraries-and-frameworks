@@ -12,6 +12,22 @@ Sinatra inspired web development framework.
 - [documentation](http://expressjs.com/3x/api.html),
 - [npm](https://www.npmjs.org/package/express)
 
+### mongoose
+
+Elegant mongodb object modeling for node.js.
+
+- [git](https://github.com/LearnBoost/mongoose.git),
+- [documentation](http://mongoosejs.com/docs/guide.html),
+- [npm](https://www.npmjs.org/package/mongoose)
+
+
+### mongoose-auth
+
+User authentication plugin for mongoose node.js orm.
+
+- [git](https://github.com/bnoguchi/mongoose-auth.git),
+- [documentation](https://github.com/bnoguchi/mongoose-auth/blob/master/README.md),
+- [npm](https://www.npmjs.org/package/mongoose-auth)
 
 Logging:
 --------
