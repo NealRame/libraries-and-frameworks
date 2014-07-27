@@ -43,6 +43,28 @@ Job queue:
 - [documentation](https://github.com/LearnBoost/kue/blob/master/Readme.md)
 - [npm](https://www.npmjs.org/package/kue)
 
+Pub/Sub library:
+----------------
+
+### PostalJS
+
+JavaScript pub/sub library
+
+- [git](https://github.com/postaljs/postal.js)
+- [documentation](https://github.com/postaljs/postal.js/blob/master/README.md)
+- [npm](https://www.npmjs.org/package/postal)
+
+Mail:
+-----
+
+### NodeMailer
+
+Send e-mails with Node.JS - easy as cake! 
+
+- [git](https://github.com/andris9/Nodemailer)
+- [documentation](https://github.com/andris9/Nodemailer/blob/master/README.md)
+- [npm](https://www.npmjs.org/package/nodemailer)
+
 Logging:
 --------
 
@@ -66,3 +88,8 @@ Hierarchical node.js configuration with files, environment variables, command-li
 - [documentation](https://github.com/flatiron/nconf/blob/master/README.md),
 - [npm](https://www.npmjs.org/package/nconf)
 
+
+NodeJS resources:
+-----------------
+
+- Production Practices: https://www.joyent.com/developers/node
