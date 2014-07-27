@@ -12,6 +12,9 @@ Sinatra inspired web development framework.
 - [documentation](http://expressjs.com/3x/api.html),
 - [npm](https://www.npmjs.org/package/express)
 
+Database:
+---------
+
 ### mongoose
 
 Elegant mongodb object modeling for node.js.
@@ -28,6 +31,17 @@ User authentication plugin for mongoose node.js orm.
 - [git](https://github.com/bnoguchi/mongoose-auth.git),
 - [documentation](https://github.com/bnoguchi/mongoose-auth/blob/master/README.md),
 - [npm](https://www.npmjs.org/package/mongoose-auth)
+
+Job queue:
+----------
+
+### Kue
+
+[Kue](http://learnboost.github.io/kue/) is a priority job queue.
+
+- [git](https://github.com/learnboost/kue)
+- [documentation](https://github.com/LearnBoost/kue/blob/master/Readme.md)
+- [npm](https://www.npmjs.org/package/kue)
 
 Logging:
 --------
