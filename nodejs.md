@@ -23,6 +23,8 @@ Elegant mongodb object modeling for node.js.
 - [documentation](http://mongoosejs.com/docs/guide.html),
 - [npm](https://www.npmjs.org/package/mongoose)
 
+Auth:
+-----
 
 ### mongoose-auth
 
@@ -31,6 +33,15 @@ User authentication plugin for mongoose node.js orm.
 - [git](https://github.com/bnoguchi/mongoose-auth.git),
 - [documentation](https://github.com/bnoguchi/mongoose-auth/blob/master/README.md),
 - [npm](https://www.npmjs.org/package/mongoose-auth)
+
+### everyauth
+
+Node.js auth package (password, facebook, & more) for Connect and Express apps 
+http://everyauth.com/
+
+- [git](https://github.com/bnoguchi/everyauth)
+- [documentation](https://github.com/bnoguchi/everyauth/blob/master/README.md)
+- [npm](https://www.npmjs.org/package/everyauth)
 
 Job queue:
 ----------
