@@ -1,5 +1,6 @@
-Javascript framework for Node.JS
-================================
+Javascript frameworks for Node.JS
+=================================
+
 
 Web application:
 ----------------
@@ -12,6 +13,7 @@ Sinatra inspired web development framework.
 - [documentation](http://expressjs.com/3x/api.html),
 - [npm](https://www.npmjs.org/package/express)
 
+
 Database:
 ---------
 
@@ -22,6 +24,7 @@ Elegant mongodb object modeling for node.js.
 - [git](https://github.com/LearnBoost/mongoose.git),
 - [documentation](http://mongoosejs.com/docs/guide.html),
 - [npm](https://www.npmjs.org/package/mongoose)
+
 
 Auth:
 -----
@@ -43,6 +46,7 @@ http://everyauth.com/
 - [documentation](https://github.com/bnoguchi/everyauth/blob/master/README.md)
 - [npm](https://www.npmjs.org/package/everyauth)
 
+
 Job queue:
 ----------
 
@@ -53,6 +57,7 @@ Job queue:
 - [git](https://github.com/learnboost/kue)
 - [documentation](https://github.com/LearnBoost/kue/blob/master/Readme.md)
 - [npm](https://www.npmjs.org/package/kue)
+
 
 Pub/Sub library:
 ----------------
@@ -65,6 +70,7 @@ JavaScript pub/sub library
 - [documentation](https://github.com/postaljs/postal.js/blob/master/README.md)
 - [npm](https://www.npmjs.org/package/postal)
 
+
 Mail:
 -----
 
@@ -75,6 +81,7 @@ Send e-mails with Node.JS - easy as cake!
 - [git](https://github.com/andris9/Nodemailer)
 - [documentation](https://github.com/andris9/Nodemailer/blob/master/README.md)
 - [npm](https://www.npmjs.org/package/nodemailer)
+
 
 Logging:
 --------
@@ -98,6 +105,23 @@ Hierarchical node.js configuration with files, environment variables, command-li
 - [git](https://github.com/flatiron/nconf),
 - [documentation](https://github.com/flatiron/nconf/blob/master/README.md),
 - [npm](https://www.npmjs.org/package/nconf)
+
+
+Promises:
+---------
+
+### Promises/A+
+
+An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
+
+- [documentation](https://github.com/promises-aplus/promises-spec/blob/master/README.md)
+
+### mpromise
+
+A promises/A+ conformant implementation, written for mongoose.
+
+- [git](https://github.com/aheckmann/mpromise.git)
+- [documentation](https://github.com/aheckmann/mpromise/blob/master/README.md)
 
 
 NodeJS resources:
