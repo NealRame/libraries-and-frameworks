@@ -128,3 +128,15 @@ NodeJS resources:
 -----------------
 
 - Production Practices: https://www.joyent.com/developers/node
+
+
+Time
+----
+
+### moment.js
+
+Parse, validate, manipulate, and display dates in JavaScript.
+
+- [git](https://github.com/moment/moment)
+- [documentation](http://momentjs.com/docs/)
+- [www](http://momentjs.com)
